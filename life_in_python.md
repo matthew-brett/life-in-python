@@ -1,6 +1,6 @@
 ---
 # YAML metadata
-title: "A talk about something"
+title: "An annotated life with Python and neuroscience"
 author: "Matthew Brett"
 linkcolor: blue
 urlcolor: blue
@@ -24,7 +24,7 @@ suppress-bibliography: true
 
 # The end
 
-Materials at <https://github.com/matthew-brett/some-repo>.
+Materials at <https://github.com/matthew-brett/life-in-python>.
 
 <#ifdef HANDOUT>
 # References
