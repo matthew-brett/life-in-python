@@ -10,19 +10,83 @@ suppress-bibliography: true
 <#endif>
 ---
 
-# Funny picture
+# A short personal history
 
-![](images/some_picture.png){width=100%}
+* Pre-clinical medicine, and psychology
+* Clinical medicine
+* Neurology
+* PhD (time) in Positron Emission Tomography
 
-# Quote with citation
+# My world in 1996-9
 
-> The now-contemplated field of Data Science amounts to a superset of the
-> fields of statistics and machine learning which adds some technology for
-> ‘scaling up’ to ‘big data’.
+* SPM - in Matlab
+* A lab full of doctors
+* My first teaching
+* My first toolbox
 
-[@donoho201550]
+# Another world 1999-2003
 
-# The end
+* Cambridge research unit
+* A lab full of scientists
+* Very little experience of imaging
+* The Kanwisher bomb via Russell Epstein
+* Marsbar (version control, Sourceforge)
+
+# Another world 2003-2005
+
+* Berkeley psychology department
+* University full of scientists
+* FMRI still young
+* Neuroimaging back then; SPM, AFNI, FSL
+* Meeting Jarrod
+* Starting with Python
+
+# The world starts to change 2004-5
+
+* The grant idea
+* The grant meetings
+* Fernando Perez, John Hunter, Travis Oliphant, Jonathan Taylor
+* Python back then
+
+# Adrift back home
+
+* Cambridge research unit again
+* A world of Matlab and "research support".
+* Nipy starts
+* Dipy starts
+* Scipy continues
+* Fernando comes to Berkeley
+
+# Back in the new world 2008-2017
+
+* Numpy, scipy, Matplotlib
+* Nibabel
+* Nipy falls to pieces
+* The IPython notebook, and Jupyter
+* The Python wave, Pandas, Statmodels.
+* The data science wave.
+
+# Looking back
+
+* [Who's
+  building?](https://asterisk.dynevor.org/who-is-building-the-foundations.html)
+* [How are things
+  built?](https://asterisk.dynevor.org/how-do-the-foundations-get-built.html)
+
+# Where we're headed
+
+* The world of the programmers toolbox
+* Code as basis for teaching
+* Your name here
+
+# A summary
+
+* "Lento pero asplastante"
+* Absurd ambition
+* Find your team
+* Anyone can play
+
+# What's your goal?
 
 Materials at <https://github.com/matthew-brett/life-in-python>.
 
